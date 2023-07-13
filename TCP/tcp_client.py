@@ -1,5 +1,4 @@
 import socket
-import logging
 
 
 def client_server() -> socket.socket:
